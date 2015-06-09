@@ -1,0 +1,31 @@
+{
+  "name": "wechat-ticket",
+  "version": "1.0.1",
+  "description": "A node.js wechat sign ticket",
+  "author": {
+    "name": "Enda Xue",
+    "email": "xueenda@gmail.com"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/xueenda/wechat-ticket.git"
+  },
+  "engines": {
+    "node": ">= 0.8.2"
+  },
+  "dependencies": {
+    "jssha": "1.6.0"
+  },
+  "homepage": "http://github.com/xueenda/wechat-ticket.git",
+  "keywords": [
+    "wechat",
+    "weixin",
+    "feedback",
+    "review"
+  ],
+  "readme": "",
+  "readmeFilename": "README.md",
+  "_id": "wechat-ticket@1.0.1",
+  "_from": "wechat-ticket@1.0.1"
+}
